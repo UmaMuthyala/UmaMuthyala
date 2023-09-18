@@ -26,6 +26,7 @@ The Library Management System (LMS) is designed to efficiently manage library op
    - Add a reviwe
    - Search for books by title, author, genre, or ISBN.
    - Display a list of available books.
+     
 4 . **User Interfaces:**
    - Develop user-friendly interfaces for library staff and borrowers.
    - Implement secure login mechanisms and role-based access control.
@@ -34,13 +35,17 @@ The Library Management System (LMS) is designed to efficiently manage library op
 
 <br>
 
-## Design and Requirements
 
 ### How the Design Meets Requirements
 
 Creating a user-friendly interface for borrowers and librarians to access and return the book is part of the project, and based on our course, we are also employing object-oriented principles like  **Inheritance, Polymorphism, and Encapsulation**.
 
+---
+
+
 ## Sequence of major functionality
+
+
 | Sequence |
 | ----------- |
 | Book Management |
@@ -49,6 +54,7 @@ Creating a user-friendly interface for borrowers and librarians to access and re
 |User Interfaces|
 
 ---
+<br>
 
 ## Lessons Learned
 
@@ -60,17 +66,26 @@ Creating a user-friendly interface for borrowers and librarians to access and re
 
 ---
 
+
 ##  Decision Log and Consequences
 
 | Area | Decision | Rationale |
 | ----------- |------|-----|
 | IDE | IntelliJ  | IntelliJ is a wonderful IDE to use for a Java project since everyone on the team has used it. |
-|Dependency Management | Maven | The project object model file (POM.xml) is something we are familiar with, and Maven is a popular build automation and project management tool. It supports the management of project lifecycles, build processes, and project dependencies.
-12 factors involved in application development.|
+|Dependency Management | Maven | The project object model file (POM.xml) is something we are familiar with, and Maven is a popular build automation and project management tool. It supports the management of project lifecycles, build processes, and project dependencies. |
 | Project Scope  | Library Management System  |The scope of a Library Management System (LMS) project includes the development and implementation of core features such as book and borrower management, user interfaces, data storage.|
-| Communication Mechanism | Microsoft Teams and Emails  | 
+| Communication Mechanism | Microsoft Teams and Emails  | We decide to use these platforms for communication because everyone is involved in teams and frequently checks their emails.|
+| Branches merging | Make a PR, get the other team members to approve it, and then merge it. | Everyone would be aware of the modifications each of us has made in this way, and conflicts may also be avoided. |
+
+<br>
+<br>
 
 
-  
+We as a team have resolved to speak out, communicate, and respectfully answer each other's concerns since we believe that most team problems are the result of misunderstandings or partial comprehension. 
+
+<br>
+
+
+---
 
 
